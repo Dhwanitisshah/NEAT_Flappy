@@ -1,0 +1,10 @@
+numpy
+pygame
+neat-python
+graphviz
+matplotlib
+graphviz
+matplotlib
+neat-python
+numpy
+pygame
